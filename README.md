@@ -1,2 +1,2 @@
 # firebase-twitter-login
- firebase auth twitter simple login
+Firebase Auth (Twitter Basic Login)
